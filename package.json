@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "moment": "2.10.3",
+    "moment": "2.29.2",
     "node-uuid": "1.4.3"
   },
   "devDependencies": {
